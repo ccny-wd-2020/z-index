@@ -1,0 +1,12 @@
+/*
+  - Using opacity & z-index, get this to look like the solved-exercise.png picture
+*/
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+#box {
+
+}

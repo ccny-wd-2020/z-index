@@ -1,6 +1,17 @@
-img {
+#image-negative-zindex {
   position: absolute;
   left: 0px;
   top: 100px;
   z-index: -1;
+}
+
+#image-positive-zindex {
+  position: absolute;
+  left: 200px;
+  top: 100px;
+  z-index: 1;
+}
+
+#zindex-text {
+  color: #e4851b;
 }

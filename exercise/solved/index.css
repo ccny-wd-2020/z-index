@@ -1,0 +1,16 @@
+img {
+  height: 250px;
+  width: 250px;
+  opacity: 0.5;
+  position: absolute;
+}
+
+#box {
+  background-color: #fcc;
+  padding: 10px;
+  border: 1px solid red;
+  width: 229px;
+  height: 229px;
+  position: absolute;
+  z-index: -1;
+}
